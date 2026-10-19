@@ -22,4 +22,4 @@ Linux:
 install -m 755 v0.9.5/herdr-linux-x86_64 ~/.local/bin/herdr
 ```
 
-Windows: unzip `herdr-windows-x86_64.zip` and put `herdr.exe` on your `PATH`.
+Windows: unzip `herdr-windows-x86_64.zip` into one folder (keep `herdr.exe` together with the `conpty/` folder) and add that folder to your `PATH`.
